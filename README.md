@@ -3,11 +3,15 @@
 This project is live on [Live site URL](https://assignment-9-noyon.netlify.app/).
 
 ## All work steps
-a. Made header with active links.
-b. Highest three reviews show on the home page.
-c. If clicked on More review it will redirect to all review page.
-d. Two charts are added on dashboard.
-e. On review page all review are showing.
+A. Made header with active links.
+#
+B. Highest three reviews show on the home page.
+#
+C. If clicked on More review it will redirect to all review page. 
+#
+D. Two charts are added on dashboard.
+#
+E. On review page all review are showing.
 
 <!-- # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
