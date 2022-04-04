@@ -7,9 +7,10 @@ import car from '../../images/car.jpg'
 
 const Home = () => {
     const [users] = useUser();
+    let newUsers = users.slice(0, 3);
     return (
         <div className='home-wrapper'>
-            <div className="home-content d-sm-block d-md-flex">
+            <div className="home-content">
                 <div className="content">
                     <h1>2023 Audi A6 e-tron</h1>
                     <h3><span>Starting at</span>$80,000</h3>
@@ -18,12 +19,13 @@ const Home = () => {
                 <img src={car} alt="" />
             </div>
             <h2>Customer Reviews</h2>
-            <div className="users-wrap">
-                {
-                   users.length > 3 ? users.map(user => <User key={user.id} user={user}></User>) : users.map(user => <User key={user.id} user={user}></User>)
+            <div className="users-wrap">               
+                {                   
+                   users.length > 3 ? newUsers.map(user => <User key={user.id} user={user}></User>) : users.map(user => <User key={user.id} user={user}></User>)
                 }
             </div>
-            <Link className='show-all-btn' to='/reviews'>All Reviews</Link>
+            <div className='mx-auto'><Link className='show-all-btn' to='/reviews'>All Reviews</Link></div>
+            
         </div>
     );
 };

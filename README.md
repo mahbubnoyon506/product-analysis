@@ -2,7 +2,14 @@
 
 This project is live on [Live site URL](https://assignment-9-noyon.netlify.app/).
 
-# Getting Started with Create React App
+## All work steps
+a. Made header with active links.
+b. Highest three reviews show on the home page.
+c. If clicked on More review it will redirect to all review page.
+d. Two charts are added on dashboard.
+e. On review page all review are showing.
+
+<!-- # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

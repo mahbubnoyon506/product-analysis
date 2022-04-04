@@ -19,4 +19,9 @@
 .in-active{
     color: coral;
 }
+.menu-icon{
+    width: 40px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+}
 

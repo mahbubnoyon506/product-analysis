@@ -1,8 +1,15 @@
 .user-wrap{
     border: 1px solid coral;
     padding: 10px;
+
     border-radius: 10px;
 }
 .user-wrap img{
     border-radius: 5px;
+}
+/* Media query */
+@media only screen and (max-width: 768px){
+    .user-wrap{
+        margin-top: 30px;
+    }    
 }
