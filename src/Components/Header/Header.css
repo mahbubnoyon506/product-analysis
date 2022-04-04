@@ -1,0 +1,22 @@
+.header-wrap{
+    background-color: blanchedalmond;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+.header-wrap a{   
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.header-wrap a:hover{
+    color: darkblue;
+}
+.active{
+   color: darkblue;
+}
+.in-active{
+    color: coral;
+}
+
