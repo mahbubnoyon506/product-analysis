@@ -2,7 +2,7 @@ import React from 'react';
 import './User.css'
 
 const User = ({ user }) => {
-    console.log(user);
+    // console.log(user);
     const { image, name, rating, review } = user
     return (
         <div className='user-wrap'>

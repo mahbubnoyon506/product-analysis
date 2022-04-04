@@ -9,3 +9,9 @@
     gap: 30px;
     padding: 30px;
 }
+/* Media query */
+@media only screen and (max-width: 768px){
+    .review-wrap{
+        display: block;
+    }    
+}

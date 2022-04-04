@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Catharina Cornels",
+    "user_id": "user_545",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/0.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 2,
+    "name": "Karalee Leverage",
+    "user_id": "user_291",
+    "rating": "⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/1.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 3,
+    "name": "Desdemona Beyn",
+    "user_id": "user_991",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/2.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  }
+]

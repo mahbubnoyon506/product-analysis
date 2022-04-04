@@ -7,10 +7,9 @@ import car from '../../images/car.jpg'
 
 const Home = () => {
     const [users] = useUser();
-    // console.log(users);
     return (
         <div className='home-wrapper'>
-            <div className="home-content">
+            <div className="home-content d-sm-block d-md-flex">
                 <div className="content">
                     <h1>2023 Audi A6 e-tron</h1>
                     <h3><span>Starting at</span>$80,000</h3>

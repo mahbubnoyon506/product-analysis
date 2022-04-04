@@ -7,7 +7,7 @@
 }
 .users-wrap{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
     padding: 30px;
 }
@@ -17,6 +17,7 @@
     color: darkblue;
     text-decoration: none;
     border-radius: 5px;
+    margin: 0px 40%;
 }
 .home-content{
     display: flex;
@@ -38,4 +39,14 @@
 .home-content img{
     width: 50%;
     border-radius: 5px;
+}
+/* media query */
+@media only screen and (max-width: 600px) {
+    .users-wrap{
+        display:block;
+        padding-top: 10px;
+    }
+    .show-all-btn{
+        margin: 0px 35%;
+    }    
 }

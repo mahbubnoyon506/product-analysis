@@ -11,3 +11,9 @@
     text-align: center;
     color: coral;
 }
+/* Media query */
+@media only screen and (max-width: 900px){
+    .chat-wrap{
+        display: block;
+    }   
+}

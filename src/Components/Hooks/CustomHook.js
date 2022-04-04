@@ -9,4 +9,7 @@ const useUser = () => {
     }, []);
     return [users, setUsers];
 }
+
+
+
 export default useUser;

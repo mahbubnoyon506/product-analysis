@@ -14,3 +14,9 @@
 .block-element span{
     color: coral;
 }
+/* Media query */
+@media only screen and (max-width: 768px){
+    .blogs-wrap{
+        display: block;
+    }
+}
