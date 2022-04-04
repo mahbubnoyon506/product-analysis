@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Catharina Cornels",
+    "user_id": "user_545",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/0.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 2,
+    "name": "Karalee Leverage",
+    "user_id": "user_291",
+    "rating": "⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/1.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 3,
+    "name": "Desdemona Beyn",
+    "user_id": "user_991",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/2.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 4,
+    "name": "Eugene Glen",
+    "user_id": "user_232",
+    "rating": "⭐️",
+    "image": "https://webapparchitect.com/user/11.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 5,
+    "name": "Vachel Ference",
+    "user_id": "user_129",
+    "rating": "⭐️⭐️",
+    "image": "https://webapparchitect.com/user/22.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 6,
+    "name": "Allyn Barrick",
+    "user_id": "user_715",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/43.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 7,
+    "name": "Ruperto Radleigh",
+    "user_id": "user_696",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/44.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 8,
+    "name": "Dave Upward",
+    "user_id": "user_27",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/57.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 9,
+    "name": "Gaylor Iverson",
+    "user_id": "user_975",
+    "rating": "⭐️",
+    "image": "https://webapparchitect.com/user/66.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 10,
+    "name": "Maurise Davidi",
+    "user_id": "user_359",
+    "rating": "⭐️⭐️",
+    "image": "https://webapparchitect.com/user/72.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 11,
+    "name": "Nevsa Gisburn",
+    "user_id": "user_944",
+    "rating": "⭐️⭐️",
+    "image": "https://webapparchitect.com/user/75.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  },
+  {
+    "id": 12,
+    "name": "Donnie Olenchenko",
+    "user_id": "user_660",
+    "rating": "⭐️⭐️⭐️",
+    "image": "https://webapparchitect.com/user/86.jpg",
+    "review": "Mi sed pede pretium feugiat integer sed turpis adipiscing nibh et varius et quis vitae."
+  }
+]

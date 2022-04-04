@@ -1,0 +1,8 @@
+.user-wrap{
+    border: 1px solid coral;
+    padding: 10px;
+    border-radius: 10px;
+}
+.user-wrap img{
+    border-radius: 5px;
+}
