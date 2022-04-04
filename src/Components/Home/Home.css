@@ -1,3 +1,10 @@
+.home-wrapper{
+    margin-bottom: 30px;
+}
+.home-wrapper h2{
+    text-align: center;
+    color: coral;
+}
 .users-wrap{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -11,6 +18,24 @@
     text-decoration: none;
     border-radius: 5px;
 }
+.home-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+}
+.content{
+    padding: 0px 20px;
+}
+.content h1, .content h3{
+    color: coral;
+}
+.content span{
+    color: gray;
+    font-size: 16px;
+    margin-right: 5px;
+}
 .home-content img{
-    width: 40%;
+    width: 50%;
+    border-radius: 5px;
 }

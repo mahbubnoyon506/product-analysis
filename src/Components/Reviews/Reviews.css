@@ -1,3 +1,8 @@
+.review-wrapper h1{
+    text-align: center;
+    color: coral;
+    padding: 20px 0px;
+}
 .review-wrap{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
