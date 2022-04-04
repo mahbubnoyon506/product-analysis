@@ -1,4 +1,13 @@
-.line-chart{
+.chat-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.line-chart, .bar-chart{
     margin: 0 auto;
-    padding: 30px;
+    padding: 50px;
+}
+.chat-wrap h3{
+    text-align: center;
+    color: coral;
 }
